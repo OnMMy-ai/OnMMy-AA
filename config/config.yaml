@@ -1,0 +1,13 @@
+training:
+  epochs: 10
+  batch_size: 64
+  learning_rate: 0.001
+
+model:
+  type: cnn
+  input_channels: 1
+  num_classes: 10
+
+logging:
+  level: INFO
+  log_dir: ./logs
