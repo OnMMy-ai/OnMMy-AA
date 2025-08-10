@@ -5,8 +5,8 @@
 <h1 align="center">OnMMy AA</h1>
 
 <div align="center" style="line-height: 1;">
-  <a href="https://www.deepseek.com/"><img alt="Homepage"
-    src="https://github.com/deepseek-ai/DeepSeek-V2/blob/main/figures/badge.svg?raw=true"/></a>
+  <a href="https://www.OnMMy.top/"><img alt="Homepage"
+    src="https://imghost.online/ib/5Bxw7Ilt1UOo2Os_1754796370.png?raw=true"/></a>
   <a href="https://chat.deepseek.com/"><img alt="Chat"
     src="https://img.shields.io/badge/🤖%20Chat-DeepSeek%20V3-536af5?color=536af5&logoColor=white"/></a>
   <a href="https://huggingface.co/deepseek-ai"><img alt="Hugging Face"
@@ -26,5 +26,6 @@
   <br>
   <a href="https://arxiv.org/pdf/2412.19437"><b>Paper Link</b>👁️</a>
 </div>
+
 
 
