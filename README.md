@@ -47,6 +47,6 @@ Alternatively, install via setup.py:
 `python src/evaluate.py`
 
 ## License
+This project is licensed under the MIT License. See the LICENSE file for details.
 
-<p align="center"> <a href="https://your-homepage-url.com/"> <img alt="ONMMY Logo" src="https://imghost.online/ib/5Bxw7Ilt1UOo2Os_1754796370.png" width="200" /> </a> <h1 align="center">ONMMY</h1> </p> ```
-You can replace with your actual homepage URL and adjust the image size if needed.
+
