@@ -31,7 +31,7 @@ ONMMY aims to provide scalable, modular, and extensible AI solutions with clean 
 ## Installation
 
 Clone the repository and install dependencies:
-`git clone https://github.com/onmmy/ONMMY.git
+`git clone https://github.com/onmmy-ai/ONMMY.git
 cd ONMMY
 pip install -r requirements.txt`
 
@@ -48,6 +48,7 @@ Alternatively, install via setup.py:
 
 ## License
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
+
 
 
 
